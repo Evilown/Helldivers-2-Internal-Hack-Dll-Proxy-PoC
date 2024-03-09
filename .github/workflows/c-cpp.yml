@@ -1,0 +1,13 @@
+Current runner version: '2.314.1'
+Operating System
+Runner Image
+Runner Image Provisioner
+GITHUB_TOKEN Permissions
+Secret source: None
+Prepare workflow directory
+Prepare all required actions
+Getting action download info
+Download action repository 'actions/checkout@v3' (SHA:f43a0e5ff2bd294095638e18286ca9a3d1956744)
+Download action repository 'microsoft/setup-msbuild@v1.0.2' (SHA:c26a08ba26249b81327e26f6ef381897b6a8754d)
+Download action repository 'actions/upload-artifact@v4' (SHA:5d5d22a31266ced268874388b861e4b58bb5c2f3)
+Complete job name: build
